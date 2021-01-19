@@ -1,2 +1,2 @@
-# Isolation-Game-C-
+# Isolation-Game
 "x"
